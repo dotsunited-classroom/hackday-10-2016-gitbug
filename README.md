@@ -7,7 +7,7 @@ to the [HAL](https://tools.ietf.org/html/draft-kelly-json-hal) specification.
 Requirements
 ------------
 
-  * The REST API should be accessible as a Web API via HTTP on your local
+  * The REST API must be accessible as a Web API via HTTP on your local
     computer.
   * The application must be implemented in _pure_ PHP, no external software or
     libraries are allowed.
